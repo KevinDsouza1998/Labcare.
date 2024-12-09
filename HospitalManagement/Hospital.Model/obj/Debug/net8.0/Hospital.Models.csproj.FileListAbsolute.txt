@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\HospitalManagement\Hospital.Model\bin\Debug\net8.0\Hospital.Models.deps.json
+C:\Users\user\source\repos\HospitalManagement\Hospital.Model\bin\Debug\net8.0\Hospital.Models.dll
+C:\Users\user\source\repos\HospitalManagement\Hospital.Model\bin\Debug\net8.0\Hospital.Models.pdb
+C:\Users\user\source\repos\HospitalManagement\Hospital.Model\obj\Debug\net8.0\Hospital.Models.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HospitalManagement\Hospital.Model\obj\Debug\net8.0\Hospital.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HospitalManagement\Hospital.Model\obj\Debug\net8.0\Hospital.Models.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HospitalManagement\Hospital.Model\obj\Debug\net8.0\Hospital.Models.AssemblyInfo.cs
+C:\Users\user\source\repos\HospitalManagement\Hospital.Model\obj\Debug\net8.0\Hospital.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HospitalManagement\Hospital.Model\obj\Debug\net8.0\Hospital.Models.dll
+C:\Users\user\source\repos\HospitalManagement\Hospital.Model\obj\Debug\net8.0\refint\Hospital.Models.dll
+C:\Users\user\source\repos\HospitalManagement\Hospital.Model\obj\Debug\net8.0\Hospital.Models.pdb
+C:\Users\user\source\repos\HospitalManagement\Hospital.Model\obj\Debug\net8.0\ref\Hospital.Models.dll
