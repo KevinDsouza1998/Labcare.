@@ -18,7 +18,7 @@ namespace Hospital.Models
         public int BloodPressure { get; set; }
         public int Temperature {get; set; }
         public string TestResult { get; set; }
-
+        public string TestPrint {get;set}
         public string TestMethod { get; set; }
 
         public string SampleType { get; set; }
